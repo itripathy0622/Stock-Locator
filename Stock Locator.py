@@ -33,8 +33,8 @@ from matplotlib.ticker import FuncFormatter
 
 
 symbolList =  ['IBM', 'MAT', 'NFLX']
-START_DATE = '2023-07-26' 
-END_DATE = '2023-08-02' 
+START_DATE = '2024-08-01' 
+END_DATE = '2024-12-01' 
 
 
 # In[6]:
